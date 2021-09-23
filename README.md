@@ -8,7 +8,7 @@ Afim de simplificar o aprendizado sobre regras de negócios e direcionar o foco 
 
 ## Comércio eletrônico no Brasil
 
-![]()
+![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/img/undraw_Add_to_cart_re_wrdo.png?token=AOJSUEHLKV4F6YPVXF57N2TBJTLIM)
 
 Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
 
