@@ -10,7 +10,7 @@ Afim de simplificar o aprendizado sobre regras de negócios e direcionar o foco 
 
 Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
 
-![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/img/undraw_Add_to_cart_re_wrdo.png?token=AOJSUEDL7YOARVVTYEW5GOTBJTXGE)
+![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/projects/brazilian-ecommerce/ecommerce-brazil.jpg?token=AOJSUEFEN34MIKMX3WR2GXLBJTYLE)
 
 *  [Análise exploratória dos dados (EDA)](https://github.com/pedrohrafael/data-science/blob/main/projects/Analise%20exploratoria%20de%20dados/Analise%20Exploratoria%20de%20dados.ipynb)
 
