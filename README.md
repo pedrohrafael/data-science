@@ -1,14 +1,12 @@
 # Sobre o repositório:
 
-Diferentes projetos de ciência de dados.
+Este repositório contêm diferentes projetos de ciência de dados, onde são aplicadas técnicas de estatística e aprendizado de  máquina (Machine Learning).
 
-# Sobre os projetos:
+# Projetos:
 
-Afim de simplificar o aprendizado de negócios e explorar diferentes técnicas de ciência de dados, os projetos deste repositório utilizam os dados público de comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/)
+Afim de simplificar o aprendizado sobre regras de negócios e direcionar o foco principal para a exploração de  técnicas de ciência de dados, os projetos deste repositório utilizam os dados público de comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/)
 
-# Projetos
-
-## Análise exploratória de dados
-## Previsão de ..
-## Classificação de ..
-## Agrupamento de ..
+### Análise exploratória de dados
+### Previsão de ..
+### Classificação de ..
+### Agrupamento de ..
