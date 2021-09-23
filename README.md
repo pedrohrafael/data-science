@@ -8,9 +8,9 @@ Afim de simplificar o aprendizado sobre regras de negócios e direcionar o foco 
 
 ## Comércio eletrônico no Brasil
 
-![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/img/undraw_Add_to_cart_re_wrdo.png?token=AOJSUECJ6QIS4FUH5Z6QJIDBJTMB6)
-
 Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
+
+![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/img/undraw_Add_to_cart_re_wrdo.png?token=AOJSUECJ6QIS4FUH5Z6QJIDBJTMB6)
 
 *  [Análise exploratória dos dados (EDA)](https://github.com/pedrohrafael/data-science/blob/main/projects/Analise%20exploratoria%20de%20dados/Analise%20Exploratoria%20de%20dados.ipynb)
 
