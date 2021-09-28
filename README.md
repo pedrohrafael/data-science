@@ -12,7 +12,7 @@ Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizado
 
 ![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/projects/brazilian-ecommerce/ecommerce-brazil.jpg?token=AOJSUEFEN34MIKMX3WR2GXLBJTYLE)
 
-*  [Análise exploratória dos dados (EDA)](https://github.com/pedrohrafael/data-science/blob/main/projects/Analise%20exploratoria%20de%20dados/Analise%20Exploratoria%20de%20dados.ipynb)
+*  [Análise exploratória dos dados (EDA)](https://github.com/pedrohrafael/data-science/tree/main/projects/brazilian-ecommerce/Analise%20exploratoria%20de%20dados)
 
 * [Previsão de ..]()
 
