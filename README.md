@@ -4,8 +4,6 @@ Este repositório contêm diferentes projetos de ciência de dados, onde são ap
 
 # Projetos
 
-Afim de simplificar o aprendizado sobre regras de negócios e direcionar o foco principal para a exploração de  técnicas de ciência de dados, esse diretório está organizado por fontes de dados que permitem utilizar diferentes técnicas.
-
 ## Comércio eletrônico no Brasil
 
 Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
