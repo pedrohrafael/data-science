@@ -4,7 +4,7 @@ Este repositório contêm diferentes projetos de ciência de dados, onde são ap
 
 # Projetos
 
-## Comércio eletrônico no Brasil
+## [Comércio eletrônico no Brasil](https://github.com/pedrohrafael/data-science/tree/main/projects/brazilian-ecommerce)
 
 Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
 
