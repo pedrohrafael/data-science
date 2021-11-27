@@ -6,14 +6,4 @@ Este repositório contêm diferentes projetos de ciência de dados, onde são ap
 
 ## [Comércio eletrônico no Brasil](https://github.com/pedrohrafael/data-science/tree/main/projects/brazilian-ecommerce)
 
-Dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
-
-![](https://raw.githubusercontent.com/pedrohrafael/data-science/main/projects/brazilian-ecommerce/ecommerce-brazil.jpg?token=AOJSUEFEN34MIKMX3WR2GXLBJTYLE)
-
-*  [Análise exploratória dos dados (EDA)](https://github.com/pedrohrafael/data-science/tree/main/projects/brazilian-ecommerce/Analise%20exploratoria%20de%20dados)
-
-* [Previsão de ..]()
-
-* [Classificação de ..]()
-
-* [Agrupamento de ..]()
+Este projeto tem o objetivo de demonstrar como a aplicação de técnicas de Machine Learning (ML) e Data Science (DS) podem ajudar a solucionar problemas relacionados ao comércio eletronico.
