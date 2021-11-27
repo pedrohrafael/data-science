@@ -8,7 +8,7 @@ Este projeto tem o objetivo de demonstrar como a aplicação de técnicas de Mac
 
 Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecommerce) brasileiro [disponibilizados no Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) pela [Olist]( https://olist.com/).
 
-## Análise exploratória dos dados (EDA)
+## Análise Exploratória dos Dados (EDA)
 
 Nesta etapa será abordada a Análise Exploratória dos Dados ou Exploratory Data Analysis (EDA), onde por meio de métodos visuais serão apresentados os principais insights do conjunto de dados de ecommerce brasileiro.
 
