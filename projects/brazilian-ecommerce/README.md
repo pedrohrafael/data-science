@@ -13,7 +13,7 @@ Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecom
 Nesta etapa será abordada a Análise Exploratória dos Dados ou Exploratory Data Analysis (EDA), onde por meio de métodos visuais serão apresentados os principais insights do conjunto de dados de ecommerce brasileiro.
 
 * [Código (jupyter notebook)](https://github.com/pedrohrafael/data-science/blob/main/projects/brazilian-ecommerce/Analise%20exploratoria%20de%20dados/An%C3%A1lise%20Explorat%C3%B3ria%20dos%20Dados%20(EDA).ipynb)
-* [Artigo (medium)]
+* [Artigo (medium)](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44)
 
 ## [Previsão de vendas]
 (em breve)
